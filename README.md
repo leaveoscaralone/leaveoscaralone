@@ -5,7 +5,7 @@
 
 I work mainly with **JavaScript** and **Typescript** as well as **Python** in both my personal and proffesional projects. I am always excited to learn new technologies as I believe it allows me to grow as a developer and I always welcome a new challenge.
 
-### These are the main technologies that I work with ###
+### These are the main technologies that I work with: ###
 	
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,3 +14,4 @@ I work mainly with **JavaScript** and **Typescript** as well as **Python** in bo
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+

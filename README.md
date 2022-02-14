@@ -1,4 +1,4 @@
-![image info](./assets/banner.png)
+![image info](./assets/banner.jpg)
 
 ## Full Stack Developer ##
 - - - -
